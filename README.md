@@ -5,7 +5,7 @@ Requires [Discord](https://discordapp.com/) desktop app with [BetterDiscord](htt
 After installing BetterDiscord:
 1. Download [**ZasukiesDarkerDiscord.css**](ZasukiesDarkerDiscord.css) and navigate to **Settings > Themes** and click on **Open Theme Folder** or place the file in **%appdata%/BetterDiscord/themes**
 2. Refresh Discord using **CTRL+R** or restart Discord.
-3. Go to **Settings > BetterDiscord > Themes** and enable **ZasukiesDarkerDiscord**.
+3. Go to **Settings > BetterDiscord > Themes** and enable **ZasukiesDarker**.
 
 Make sure you have **Dark Theme** enabled in Settings > Appearance > Theme and select Dark  
       Having **BetterDiscord Blue** enabled is recommended but not necessary for the theme to work correctly for the most part.  
